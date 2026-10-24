@@ -3,16 +3,7 @@
 <p align="center">
   <strong>Turning Data into Meaningful Insights 📊</strong>
   <br/>
-  Aspiring Data Analyst | Python • Power BI • Data Visualization
-</p>
-
-<p align="center">
-  <a href="https://github.com/SUKstudent/">
-    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github" alt="GitHub Profile"/>
-  </a>
-  <a href="https://www.linkedin.com/in/bhargavi-sadanand-a6250a3b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
+  Data Analytics | Python • Power BI • Data Visualization
 </p>
 
 ---
@@ -107,7 +98,7 @@ Faculty of Engineering and Technology (Ex-Women), Sharnbasva University, Kalabur
 
 ## 📜 Certifications
 
-- Python 101 for Data Science — IBM
+- Python 101 for Data Science
 - Data Analysis with Python
 - Green Skills and Artificial Intelligence
 - Advanced Certification in Data Analytics Program
@@ -131,5 +122,5 @@ Faculty of Engineering and Technology (Ex-Women), Sharnbasva University, Kalabur
 ---
 
 <p align="center">
-  <em>“Turning data into meaningful insights, one project at a time.”</em> 💙
+  <em>Driven by Curiosity. Inspired by Data.</em> 💙
 </p>
