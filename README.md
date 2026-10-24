@@ -25,7 +25,7 @@ React · TypeScript · Vite · CSS
   <a href="https://github.com/SUKstudent/">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
-  <a href="mailto:patilabhi@gmail.com">
+  <a href="mailto:patilabhinavsadanand@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact_Me-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
