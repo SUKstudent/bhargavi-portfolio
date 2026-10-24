@@ -60,41 +60,54 @@ I enjoy cleaning and exploring datasets, discovering patterns, building interact
 
 ## 💼 Internship Experience
 
-**BharatCares** — Data Analyst Intern  
+### BharatCares — Data Analyst Intern
+
 *IBM SkillsBuild Data Analytics with AI Internship Program · August–September 2026*
 
 - Data cleaning and exploratory data analysis
 - Space mission data visualization and dashboard development
 - Predictive modeling and Streamlit deployment
 
-**Infotact Solutions** — Data Analyst Intern  
+**Technologies:** Python, Pandas, Power BI, DAX, Machine Learning, Streamlit
+
+### Infotact Solutions — Data Analyst Intern
+
 *May–July 2026*
 
 - Dataset preparation using Python and Pandas
 - Exploratory data analysis
 - Power BI dashboard development
 
+**Technologies:** Python, Pandas, Power BI, Data Cleaning, EDA
+
 ---
 
 ## 🎓 Education
 
-**Bachelor of Technology — Computer Science and Engineering**  
-Faculty of Engineering and Technology (Ex-Women), Sharnbasva University, Kalaburagi  
+**Bachelor of Technology — Computer Science and Engineering**
+
+Faculty of Engineering and Technology (Ex-Women), Sharnbasva University, Kalaburagi
+
 *Currently Pursuing · 7th Semester*
 
 ---
 
 ## 🏆 Achievements
 
-- 🥇 **1st Place** — Inter College Technotsava, AI Trends Shaping the Future PPT Presentation
-- 🥈 **2nd Place** — Brain Bytes Technical Quiz, IEEE Day Celebration 2025
-- 🥉 **3rd Place** — Project Expo, IETE Zonal Seminar and ISF Congress 2026
+- 🥇 **1st Place — Inter College Technotsava**  
+  PPT Presentation on AI Trends Shaping the Future, LAEC, Gornaballi, Bidar.
+
+- 🥈 **2nd Place — Brain Bytes Technical Quiz**  
+  Part of IEEE Day Celebration 2025, Sharnbasva University, Kalaburagi.
+
+- 🥉 **3rd Place — Project Expo**  
+  IETE Zonal Seminar and ISF Congress 2026, IETE Kalaburagi Centre, Sharnbasva University.
 
 ---
 
 ## 📜 Certifications
 
-- Python 101 for Data Science
+- Python 101 for Data Science — IBM
 - Data Analysis with Python
 - Green Skills and Artificial Intelligence
 - Advanced Certification in Data Analytics Program
@@ -105,10 +118,13 @@ Faculty of Engineering and Technology (Ex-Women), Sharnbasva University, Kalabur
 
 <p align="center">
   <a href="https://www.linkedin.com/in/bhargavi-sadanand-a6250a3b4/">
-    <img src="https://img.shields.io/badge/LinkedIn-Bhargavi_Sadanand-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn"/>
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
   <a href="https://github.com/SUKstudent/">
-    <img src="https://img.shields.io/badge/GitHub-SUKstudent-181717?style=flat-square&logo=github" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="mailto:patilabhi@gmail.com">
+    <img src="https://img.shields.io/badge/Email-8B5CF6?style=flat-square&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
