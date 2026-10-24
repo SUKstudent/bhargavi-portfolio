@@ -1,0 +1,40 @@
+/* Frame that holds the CSS dashboard (fallback) and the 3D scene */
+.visual {
+  position: absolute;
+  right: var(--pad);
+  bottom: 7%;
+  width: min(37vw, 500px);
+  aspect-ratio: 6 / 5;
+  z-index: 1;
+}
+.visual .stage {
+  position: absolute;
+  inset: 0;
+  width: auto;
+  max-width: none;
+  margin: 0;
+  aspect-ratio: auto;
+}
+
+.scene {
+  position: absolute;
+  inset: 0;
+  pointer-events: none;
+}
+.scene canvas {
+  opacity: 0;
+  transition: opacity 0.8s ease;
+  pointer-events: none;
+}
+.scene.scene-ready canvas { opacity: 1; }
+
+@media (max-width: 800px) {
+  .visual {
+    position: relative;
+    right: auto;
+    bottom: auto;
+    width: 100%;
+    max-width: 460px;
+    margin: 48px auto 0;
+  }
+}

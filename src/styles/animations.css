@@ -1,0 +1,15 @@
+@keyframes float {
+  50% { transform: translate3d(0, -12px, 0); }
+}
+@keyframes grow {
+  from { transform: scaleY(0); }
+}
+
+/* Respect "reduce motion" settings */
+@media (prefers-reduced-motion: reduce) {
+  html { scroll-behavior: auto; }
+  *, *::before, *::after {
+    animation: none !important;
+    transition: none !important;
+  }
+}
